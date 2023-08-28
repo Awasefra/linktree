@@ -133,13 +133,13 @@ body {
   .tile:hover {
     transition: cubic-bezier(.07, 1.41, .82, 1.41) 0.2s;
     transform: scale(1.02);
-    background-color: #e1ebf4;
+    background-color: #ffffff;
   }
   
   .tiles-for-content-link:hover {
     transition: cubic-bezier(.07, 1.41, .82, 1.41) 0.2s;
     transform: scale(1.0);
-    background-color: #e1ebf4;
+    background-color: #ffffff;
   }
   .tile__share-button {
     margin-top: 8px;
