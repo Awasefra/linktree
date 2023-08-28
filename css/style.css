@@ -185,11 +185,22 @@ body {
     background-color: #f1f1f1;
     
   }
+  .content-text {
+    padding: 0 0;
+    max-height: 0;
+    height: 100%;
+    width: auto;
+    overflow: auto;
+    border-radius: 15px;
+    transition: max-height 0.2s ease-out;
+    
+   
+  }
   .content-link {
     padding: 0 0;
     max-height: 0;
     width: auto;
-    overflow: auto;
+    overflow: hidden;
     border-radius: 15px;
     transition: max-height 0.2s ease-out;
     
