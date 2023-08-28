@@ -218,7 +218,13 @@ body {
       -webkit-box-shadow: 1px 13px 71px 1px rgba(0, 0, 0, 0.39);
       -moz-box-shadow: 1px 13px 71px 1px rgba(0, 0, 0, 0.39); */
   }
-  
+  .text-decoration{
+    list-style-type: circle;  
+    line-height: 0.8cm; 
+    padding-right: 20px; 
+    text-align: justify;
+  }
+
   @media screen and (min-width: 768px) {
     .image__container {
       height: 100px;
